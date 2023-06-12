@@ -1,1 +1,1 @@
-this my i/o file
+this my redirection file
